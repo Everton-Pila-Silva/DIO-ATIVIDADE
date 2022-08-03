@@ -6,4 +6,8 @@
 
 - Dar primeiro commit
 
+- Fazer alteração no documento - projeto
+
+- Enviar como segundo commit
+
 
